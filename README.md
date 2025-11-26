@@ -1,33 +1,16 @@
-# CyberSky Consultants
+# Cybersky Consultants
 
-Professional IT consultancy website for CyberSky Consultants.
+Welcome to Cybersky Consultants, your partner in innovative web design and development solutions. We specialize in creating stunning, user-friendly websites tailored to your unique needs. Our focus is on delivering high-quality results that drive success.
 
-## Overview
+## Services Offered
+- Custom Web Design
+- Web Development
+- SEO Optimization
+- E-commerce Solutions
 
-This website showcases our IT consultancy services including:
-- Cloud Solutions
-- Cybersecurity
-- Digital Transformation
-- IT Strategy
-- DevOps & Automation
-- Data Analytics
+## Contact Us
+Reach out to us for a consultation!
 
-## Getting Started
-
-Simply open `index.html` in your web browser to view the website.
-
-## Features
-
-- Responsive design that works on desktop, tablet, and mobile
-- Modern gradient styling and animations
-- Clear service offerings
-- Contact form for customer inquiries
-- Professional branding
-
-## Technology Stack
-
-- HTML5
-- CSS3
-- Responsive Design
-
-© 2025 CyberSky Consultants. All rights reserved.
+## Latest Updates
+- Refocused our site to better serve our clients.
+- Updated styles and homepage for a more modern look.
