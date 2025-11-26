@@ -3,29 +3,106 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Welcome to Cybersky Consultants</title>
+    <meta name="description" content="CyberSky Consultants - Professional Web Design & Development. Responsive sites, modern web apps, frontend/backend solutions, and UX/UI consulting.">
+    <title>CyberSky Consultants | Web Design & Development</title>
     <link rel="stylesheet" href="styles.css">
 </head>
 <body>
     <header>
-        <h1>Welcome to Cybersky Consultants</h1>
-        <nav>
-            <ul>
-                <li><a href="#">Home</a></li>
-                <li><a href="#">About Us</a></li>
-                <li><a href="#">Services</a></li>
-                <li><a href="#">Contact</a></li>
-            </ul>
+        <nav class="navbar">
+            <div class="container">
+                <div class="logo">
+                    <h1>CyberSky Consultants</h1>
+                </div>
+                <ul class="nav-menu">
+                    <li><a href="#home">Home</a></li>
+                    <li><a href="#services">Services</a></li>
+                    <li><a href="#about">About</a></li>
+                    <li><a href="#contact">Contact</a></li>
+                </ul>
+            </div>
         </nav>
     </header>
+
     <main>
-        <section>
-            <h2>Your Partner in Web Design & Development</h2>
-            <p>We provide top-notch web solutions tailored to your needs.</p>
+        <!-- Hero Section -->
+        <section id="home" class="hero">
+            <div class="container">
+                <div class="hero-content">
+                    <h2>Expert Web Design & Development Solutions</h2>
+                    <p>Elevate your brand with custom websites, web applications, and digital experiences. We specialize in responsive design, UX/UI, modern frontend & backend development.</p>
+                    <a href="#contact" class="cta-button">Let’s Start Your Project</a>
+                </div>
+            </div>
+        </section>
+
+        <!-- Services Section -->
+        <section id="services" class="services">
+            <div class="container">
+                <h2 class="section-title">Our Web Services</h2>
+                <div class="services-grid">
+                    <div class="service-card">
+                        <div class="service-icon">🎨</div>
+                        <h3>Web Design</h3>
+                        <p>Custom designs, branding, and intuitive user interfaces for a powerful online presence.</p>
+                    </div>
+                    <div class="service-card">
+                        <div class="service-icon">💻</div>
+                        <h3>Front-End Development</h3>
+                        <p>Modern, responsive UI with HTML, CSS, JavaScript, React, and more.</p>
+                    </div>
+                    <div class="service-card">
+                        <div class="service-icon">🛠️</div>
+                        <h3>Back-End Development</h3>
+                        <p>Secure, scalable solutions with Node.js, PHP, Python, databases, and API integration.</p>
+                    </div>
+                    <div class="service-card">
+                        <div class="service-icon">📱</div>
+                        <h3>Mobile-Friendly Sites</h3>
+                        <p>Fully responsive sites and web apps for all devices and screen sizes.</p>
+                    </div>
+                    <div class="service-card">
+                        <div class="service-icon">⚡</div>
+                        <h3>SEO & Performance</h3>
+                        <p>Fast loading, optimized code, and SEO enhancements to boost your visibility.</p>
+                    </div>
+                    <div class="service-card">
+                        <div class="service-icon">🔧</div>
+                        <h3>Support & Maintenance</h3>
+                        <p>Ongoing updates, security, and technical support so your site runs smoothly.</p>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- About Section -->
+        <section id="about" class="about">
+            <div class="container">
+                <h2 class="section-title">About Us</h2>
+                <p>
+                    CyberSky Consultants crafts high-quality web experiences with creative design and robust coding. Trusted by small businesses and enterprises, we’re passionate about helping you thrive online!
+                </p>
+            </div>
+        </section>
+
+        <!-- Contact Section -->
+        <section id="contact" class="contact">
+            <div class="container">
+                <h2 class="section-title">Contact</h2>
+                <form class="contact-form" action="#" method="post">
+                    <input type="text" name="name" placeholder="Your Name" required>
+                    <input type="email" name="email" placeholder="Your Email" required>
+                    <textarea name="message" rows="5" placeholder="Describe your project..." required></textarea>
+                    <button type="submit">Send Message</button>
+                </form>
+            </div>
         </section>
     </main>
+
     <footer>
-        <p>&copy; 2025 Cybersky Consultants</p>
+        <div class="container">
+            <p>&copy; 2025 CyberSky Consultants. Web Design & Development Specialists.</p>
+        </div>
     </footer>
 </body>
 </html>
