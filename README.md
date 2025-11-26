@@ -1,16 +1,35 @@
-# Cybersky Consultants
+# CyberSky Consultants
 
-Welcome to Cybersky Consultants, your partner in innovative web design and development solutions. We specialize in creating stunning, user-friendly websites tailored to your unique needs. Our focus is on delivering high-quality results that drive success.
+Professional Web Design & Development Specialists
 
-## Services Offered
+## Overview
+
+CyberSky Consultants delivers modern, responsive, and results-driven web solutions. Our services are tailored for businesses, entrepreneurs, and organizations seeking digital excellence:
 - Custom Web Design
-- Web Development
-- SEO Optimization
-- E-commerce Solutions
+- Frontend & Backend Development
+- Mobile-Friendly Sites & Web Apps
+- SEO & Performance Optimization
+- Website Maintenance & Support
+- UX/UI Consulting
+- Project Portfolio for diverse industries
 
-## Contact Us
-Reach out to us for a consultation!
+## Getting Started
 
-## Latest Updates
-- Refocused our site to better serve our clients.
-- Updated styles and homepage for a more modern look.
+Open `index.html` in your browser to view our homepage and explore our web design/development offerings.
+
+## Features
+
+- Stunning, brand-aligned layouts and interactive elements
+- Responsive design for all devices
+- Portfolio showcase of past projects
+- Contact form with lead generation
+- Professional standards: accessibility, SEO, fast loading
+
+## Technology Stack
+
+- HTML5, CSS3
+- JavaScript (with options for React, Vue, or Angular)
+- Node.js, PHP, Python (backend options)
+- Responsive design methodologies
+
+© 2025 CyberSky Consultants. All rights reserved.
